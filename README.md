@@ -1,6 +1,10 @@
 # DeepMind Atari Deep Q Learner
 This repository hosts the [original code](https://sites.google.com/a/deepmind.com/dqn/) published along with [the article](http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html) in Nature and my experiments (if any) with it.
 
+# Patches
+* https://users.cg.tuwien.ac.at/zsolnai/wp/wp-content/uploads/2015/03/train_agent.patch
+* https://users.cg.tuwien.ac.at/zsolnai/wp/wp-content/uploads/2015/03/run_gpu
+
 Disclaimer
 ----------
   * This codebase is not written by me (only the "+ my tweaks" part) and I am not employed by DeepMind.
